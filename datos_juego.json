@@ -1,0 +1,54 @@
+{
+  "PIRATA": {
+    "imagen": "imagenes/pirata_tesoro.jpeg",
+    "dato": "Ciudad del Carmen tiene una historia de piratas famosos, y se dice que hay tesoros escondidos."
+  },
+  "MALECON": {
+    "imagen": "imagenes/malecon.jpg",
+    "dato": "El Malecón es un lugar emblemático para pasear y disfrutar de la vista del mar en la ciudad."
+  },
+  "CAMPECHE": {
+    "imagen": "imagenes/bandera_campeche.jpeg",
+    "dato": "Carmen se encuentra en el estado de Campeche, conocido por sus murallas coloniales y su rica historia."
+  },
+  "ZACATAL": {
+    "imagen": "imagenes/puente_zacatal.jpeg",
+    "dato": "El Puente El Zacatal es uno de los más largos de México y conecta la isla con el continente."
+  },
+  "FARO": {
+    "imagen": "imagenes/faro_carmen.jpeg",
+    "dato": "El antiguo Faro de la ciudad, de estilo neoclásico, es ahora el Museo de la Ciudad."
+  },
+  "PETROLEO": {
+    "imagen": "imagenes/plataforma_petrolera.jpeg",
+    "dato": "La economía de la ciudad se centra históricamente en la pesca, pero hoy es clave en la industria petrolera nacional."
+  },
+  "CARNAVAL": {
+    "imagen": "imagenes/comparsa_carnaval.jpeg",
+    "dato": "El Carnaval de Carmen es uno de los más antiguos del país, lleno de comparsas y alegría."
+  },
+  "CAMARON": {
+    "imagen": "imagenes/camaron_pesca.jpeg",
+    "dato": "La pesca de camarón ha sido históricamente la principal actividad económica que le dio fama a la región."
+  },
+  "DELFIN": {
+    "imagen": "imagenes/delfin_bahia.jpeg",
+    "dato": "En las aguas cercanas, es común avistar delfines nariz de botella en su hábitat natural."
+  },
+  "ISLA": {
+    "imagen": "imagenes/isla_carmen.jpeg",
+    "dato": "Ciudad del Carmen se ubica en una isla que lleva su nombre, separada del continente."
+  },
+  "VIRGEN": {
+    "imagen": "imagenes/virgen_carmen.jpeg",
+    "dato": "La fiesta de la Virgen del Carmen, patrona de los marinos, es la celebración más grande y emotiva."
+  },
+  "BARCO": {
+    "imagen": "imagenes/barco_camaronero.jpeg",
+    "dato": "Los barcos camaroneros son una imagen icónica del puerto y su identidad pesquera."
+  },
+  "MUSEO": {
+    "imagen": "imagenes/museo_carmen.jpeg",
+    "dato": "El Museo de la Ciudad de Carmen alberga exposiciones sobre la historia pirata y la evolución urbana."
+  }
+}

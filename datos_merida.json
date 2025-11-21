@@ -1,0 +1,54 @@
+{
+  "MURALLA": {
+    "imagen": "imagenes/campeche/muralla.jpg",
+    "dato": "Las murallas de Campeche fueron construidas en el siglo XVII para proteger la ciudad de los piratas."
+  },
+  "FORTIN": {
+    "imagen": "imagenes/campeche/fortin.jpg",
+    "dato": "Los fortines como San José y San Miguel defendían los puntos estratégicos de la ciudad amurallada."
+  },
+  "PUERTA": {
+    "imagen": "imagenes/campeche/puerta_tierra.jpg",
+    "dato": "La Puerta de Tierra era la entrada principal a la ciudad fortificada desde el continente."
+  },
+  "BALUARTE": {
+    "imagen": "imagenes/campeche/baluarte.jpg",
+    "dato": "Los baluartes eran torres defensivas en las esquinas de las murallas, hoy convertidos en museos."
+  },
+  "CATEDRAL": {
+    "imagen": "imagenes/campeche/catedral.jpg",
+    "dato": "La Catedral de la Inmaculada Concepción es uno de los edificios religiosos más antiguos de la península."
+  },
+  "MALECON": {
+    "imagen": "imagenes/campeche/malecon_campeche.jpg",
+    "dato": "El malecón de Campeche ofrece vistas espectaculares del Golfo de México al atardecer."
+  },
+  "CASAS": {
+    "imagen": "imagenes/campeche/casas_colores.jpg",
+    "dato": "Las casas coloniales de colores vibrantes son el sello distintivo del centro histórico de Campeche."
+  },
+  "MUSEO": {
+    "imagen": "imagenes/campeche/museo_arquitectura.jpg",
+    "dato": "El Museo de Arquitectura Maya muestra la riqueza arqueológica de la región de Campeche."
+  },
+  "EDZNA": {
+    "imagen": "imagenes/campeche/edzna.jpg",
+    "dato": "Edzná es una zona arqueológica maya cercana a la ciudad, famosa por su edificio de los Cinco Pisos."
+  },
+  "CHICANNA": {
+    "imagen": "imagenes/campeche/chicanna.jpg",
+    "dato": "Chicanná es un sitio maya conocido por sus fachadas decoradas con máscaras del dios Itzamná."
+  },
+  "CALAKMUL": {
+    "imagen": "imagenes/campeche/calakmul.jpg",
+    "dato": "Calakmul fue una de las ciudades mayas más poderosas, rival de Tikal, en la Reserva de la Biosfera."
+  },
+  "PALACIO": {
+    "imagen": "imagenes/campeche/palacio_gobierno.jpg",
+    "dato": "El Palacio de Gobierno alberga murales que narran la historia de Campeche desde la época maya."
+  },
+  "BARRIO": {
+    "imagen": "imagenes/campeche/barrio_guadalupe.jpg",
+    "dato": "Los barrios tradicionales como San Francisco y Guadalupe conservan el encanto colonial de la ciudad."
+  }
+}
